@@ -7,7 +7,6 @@ This project uses **Multiple Linear Regression** from `Scikit-Learn` to predict 
 ## 📂 Project Structure
 - `houses.txt` → Contains the dataset.
 - `notebooks/` → Google Colab notebook for model training & evaluation.
-- `results/` → Visualizations & evaluation metrics.
 - `README.md` → Project documentation (this file).
 
 ---
